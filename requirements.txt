@@ -1,0 +1,7 @@
+torch
+streamlit
+tiktoken
+numpy
+pandas
+huggingface-hub
+
